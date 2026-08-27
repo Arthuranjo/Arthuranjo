@@ -209,23 +209,16 @@ Estou constantemente buscando evoluir meus conhecimentos em:
 
 Busco uma oportunidade de **estágio em Desenvolvimento de Software**, especialmente nas áreas de:
 
+- 🔹 Web Development
+- 🔹 Back-end
+- 🔹 Full Stack
+- 🔹 Mobile
+- 🔹 Software Development
+
+
+
+
+
+
 ```text
-Web Development
-Back-end
-Full Stack
-Mobile
-Software Development
-<!--
-**Arthuranjo/Arthuranjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
