@@ -3,7 +3,7 @@
 ### 💻 Desenvolvedor Full Stack | Estudante de Desenvolvimento de Software
 
 <p align="left">
-  <a href="https://arthuranjo.github.io/portfolio/">
+  <a href="https://arthuranjo.github.io/meu-portifolio/">
     <img src="https://img.shields.io/badge/🌐_Meu_Portfólio-1f6feb?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/arthur-dos-anjos-5207b6294/">
